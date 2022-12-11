@@ -1,0 +1,5 @@
+venv
+pdf
+data
+node_modules
+*.csv
